@@ -1,4 +1,4 @@
-### Hi there 👋.. This is Ayush.  :)
+### Hi there <!--👋..-->  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px" /> This is Ayush.  :)
 
 - 🔭 I’m currently a pre-final year student at NIT Allahabad.
 - 🌱 I’m currently learning react
