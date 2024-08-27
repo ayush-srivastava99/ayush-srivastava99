@@ -1,7 +1,7 @@
 ### Hi there <!--👋..-->  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px" /> This is Ayush.  :)
 
 - 🔭 I’m currently working as a software engineer at Goldman Sachs
-- 🌱 Building stuffs forbig data jobs using java and spark
+- 🌱 Building stuffs for big data jobs using java and spark
 <!--- 👯 I’m looking to collaborate on --> 
 - 🤔 I’m looking for help with spark and similar stuff.
 - 💬 Ask me about Java.
